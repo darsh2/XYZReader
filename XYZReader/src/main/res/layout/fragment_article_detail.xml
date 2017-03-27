@@ -40,7 +40,6 @@
         android:id="@+id/share_fab"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        app:elevation="@dimen/fab_elevation"
         app:layout_anchor="@id/appbar"
         app:layout_anchorGravity="bottom|right|end"
         android:layout_margin="@dimen/padding_all_sides"
