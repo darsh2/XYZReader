@@ -1,0 +1,23 @@
+<resources>
+    <dimen name="app_bar_elevation">4dp</dimen>
+
+    <dimen name="card_elevation">2dp</dimen>
+
+    <dimen name="fab_elevation">4dp</dimen>
+    <dimen name="fab_press_translation_z">6dp</dimen>
+    <dimen name="fab_margin">24dp</dimen>
+
+    <dimen name="image_view_backdrop_height">256dp</dimen>
+
+    <dimen name="padding_all_sides">16dp</dimen>
+    <dimen name="padding_low">2dp</dimen>
+    <dimen name="padding_low_x2">4dp</dimen>
+    <dimen name="padding_adjust">10dp</dimen>
+    <dimen name="padding_distance">24dp</dimen>
+
+    <dimen name="title_margin_start">30dp</dimen>
+    <dimen name="title_margin_end">64dp</dimen>
+
+    <integer name="list_column_count">2</integer>
+    <dimen name="item_spacing">4dp</dimen>
+</resources>
